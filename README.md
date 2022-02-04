@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/18348613/152560532-ce5dcf87-841a-4f09-bf60-93d0d07c6dfb.png)
+
 # CustomWebpackMinimal
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.4.
